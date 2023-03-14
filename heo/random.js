@@ -1,1 +1,1 @@
-var posts=["2023/03/12/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/03/13/为画质与焦外而生 佳能专业人像镜头天团解析/","2023/03/12/欢迎来到Octopusの艺术小世界/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
